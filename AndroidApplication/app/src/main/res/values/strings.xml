@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login__api">Login_API</string>
+    <string name="login_page.text">Login Page</string>
+    <string name="User_Name.text">User_Name</string>
+    <string name="Password.text">Password</string>
+    <string name="Login.text">Login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps__api">Map</string>
+</resources>
